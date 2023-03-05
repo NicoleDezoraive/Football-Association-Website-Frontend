@@ -11,9 +11,9 @@ https://app.swaggerhub.com/apis-docs/barmocha/API_assignment_3.1/1.0.0
 
 
 ## Screen Shot:
-#### about Page:
+#### About Page:
 ![about Page](https://github.com/NicoleDezoraive/Football-Association-Website-Frontend/blob/main/src/images/about.PNG)
-#### all Game In Current Stage Page:
+#### All Game In Current Stage Page:
 ![all Game In Current Stage Page](https://github.com/NicoleDezoraive/Football-Association-Website-Frontend/blob/main/src/images/allGameInLeag.PNG)
 #### Last Search Page:
 ![Last Search Page](https://github.com/NicoleDezoraive/Football-Association-Website-Frontend/blob/main/src/images/lastSearch.PNG)
