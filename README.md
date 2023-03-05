@@ -33,8 +33,8 @@ https://app.swaggerhub.com/apis-docs/barmocha/API_assignment_3.1/1.0.0
 #### Register Page:
 ![Register Page](https://github.com/NicoleDezoraive/Football-Association-Website-Frontend/blob/main/src/images/register.PNG)
 #### Search Page:
-![Search Page]https://github.com/NicoleDezoraive/Football-Association-Website-Frontend/blob/main/src/images/searchPage.PNG)
-![searchPage_searchPlayerInPosition]https://github.com/NicoleDezoraive/Football-Association-Website-Frontend/blob/main/src/images/searchPage_searchPlayerInPosition.PNG)
+![Search Page](https://github.com/NicoleDezoraive/Football-Association-Website-Frontend/blob/main/src/images/searchPage.PNG)
+![searchPage_searchPlayerInPosition](https://github.com/NicoleDezoraive/Football-Association-Website-Frontend/blob/main/src/images/searchPage_searchPlayerInPosition.PNG)
 ![searchPage_searchPlayerInPosition_results](https://github.com/NicoleDezoraive/Football-Association-Website-Frontend/blob/main/src/images/searchPage_searchPlayerInPosition_results.PNG)
 ![searchPage_searchPlayerInTean](https://github.com/NicoleDezoraive/Football-Association-Website-Frontend/blob/main/src/images/searchPage_searchPlayerInTean.PNG)
 ![searchPage_searchPlayerInTeam_results](https://github.com/NicoleDezoraive/Football-Association-Website-Frontend/blob/main/src/images/searchPage_searchPlayerInTeam_results.PNG)
